@@ -3,5 +3,6 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
-
+transfer-learning/.ipynb_checkpoints
+transfer-learning/flower_photos
 .ipynb_checkpoints/
